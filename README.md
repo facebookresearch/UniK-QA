@@ -1,5 +1,10 @@
 # UniK-QA: Unified Representations of Structured and Unstructured Knowledge for Open-Domain Question Answering
 
+[![PWC](https://img.shields.io/endpoint.svg?url=https://paperswithcode.com/badge/unified-open-domain-question-answering-with/knowledge-base-question-answering-on-1)](https://paperswithcode.com/sota/knowledge-base-question-answering-on-1?p=unified-open-domain-question-answering-with)
+<br>
+[![PWC](https://img.shields.io/endpoint.svg?url=https://paperswithcode.com/badge/unified-open-domain-question-answering-with/open-domain-question-answering-on)](https://paperswithcode.com/sota/open-domain-question-answering-on?p=unified-open-domain-question-answering-with)
+[![PWC](https://img.shields.io/endpoint.svg?url=https://paperswithcode.com/badge/unified-open-domain-question-answering-with/open-domain-question-answering-on-natural)](https://paperswithcode.com/sota/open-domain-question-answering-on-natural?p=unified-open-domain-question-answering-with)
+
 This repo contains code for our paper (UniK-QA is pronounced as *unique-QA*):
 
 [UniK-QA: Unified Representations of Structured and Unstructured Knowledge for Open-Domain Question Answering](https://arxiv.org/pdf/2012.14610.pdf)
@@ -19,6 +24,8 @@ tar -xvf data.tar.xz
 ```
 
 ## Reproducing the WebQSP experiment
+
+
 
 Follow the interactive Jupyter notebook `UniK-QA on WebQSP.ipynb` to reproduce our experiment on WebQSP.
 
